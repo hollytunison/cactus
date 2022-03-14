@@ -1,2 +1,2 @@
 # cactus
- Cactus CSS art
+ Learning CSS art in HTML and CSS
